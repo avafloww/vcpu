@@ -1,0 +1,8 @@
+target/
+*.class
+.DS_Store
+hs_err_pid*
+dependency-reduced-pom.xml
+*.asm
+*.bin
+
